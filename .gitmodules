@@ -1,0 +1,3 @@
+[submodule "go-qidenticon"]
+	path = go-qidenticon
+	url = https://github.com/jakobvarmose/go-qidenticon
